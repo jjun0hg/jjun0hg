@@ -51,4 +51,4 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jjun0hg&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
   
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=jjun0hg&color=dark)](https://velog.io/@jjun0hg/series)  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jjun0hg&theme=vue&show_icons=true)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jjun0hg&show_icons=true&theme=veu)
