@@ -15,8 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
- 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&animation=fadeIn&section=footer&text=🚗💨&fontAlign=70)
 
 <div align="center">
@@ -33,7 +31,7 @@ Here are some ideas to get you started:
 
   <img src="https://raw.githubusercontent.com/jjun0hg/github-stats-transparent/output/generated/languages.svg" width="49.2%" />
 </a>
-
+![](./profile-3d-contrib/profile-green-animate.svg)
 <!--
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jjun0hg&theme=tokyonight)](https://git.io/streak-stats)
 -->
