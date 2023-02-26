@@ -34,9 +34,9 @@ Here are some ideas to get you started:
   <img src="https://raw.githubusercontent.com/jjun0hg/github-stats-transparent/output/generated/languages.svg" width="49.2%" />
 </a>
 
-
+<!--
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jjun0hg&theme=tokyonight)](https://git.io/streak-stats)
-
+-->
 
 <br />
 
@@ -47,7 +47,8 @@ Here are some ideas to get you started:
 <!--
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jjun0hg&theme=nord_dark)
 -->
- 
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jjun0hg&bg_color=1a1b27&hide_border=false&text_color=c1c1cb&custom_title=Weekly+development)](https://github.com/anuraghazra/github-readme-stats)
+
   <br>
 
   ####  :clipboard: Once I've Used 
