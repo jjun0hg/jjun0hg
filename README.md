@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
   <img src="https://raw.githubusercontent.com/jjun0hg/github-stats-transparent/output/generated/languages.svg" width="49.2%" />
 </a>
-![](./profile-3d-contrib/profile-green-animate.svg)
+
 <!--
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jjun0hg&theme=tokyonight)](https://git.io/streak-stats)
 -->
@@ -77,3 +77,4 @@ Here are some ideas to get you started:
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=jjun0hg&color=dark)](https://velog.io/@jjun0hg/series)  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jjun0hg&theme=vue&show_icons=true)
 
+![](./profile-3d-contrib/profile-green-animate.svg)
