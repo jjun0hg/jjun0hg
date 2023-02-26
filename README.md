@@ -38,8 +38,15 @@ Here are some ideas to get you started:
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jjun0hg&theme=tokyonight)](https://git.io/streak-stats)
 -->
 
-<br />  
+<br />
 
+<!--   [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=jjun0hg&theme=react-dark&line=6796e5&color=6796e5&bg_color=1a1b27)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
+<!-- https://github.com/Ashutosh00710/github-readme-activity-graph -->
+<br />
+<!--
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jjun0hg&theme=nord_dark)
+-->
+ 
   <br>
 
   ####  :clipboard: Once I've Used 
