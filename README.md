@@ -32,8 +32,18 @@ Here are some ideas to get you started:
 <br />
 <br />
 
+<a href="s">
+  <img src="https://github-readme-stats.vercel.app/api?username=jjun0hg&theme=tokyonight&show_icons=true&text_color=e5e5f0&icon_color=707070&hide_border=true" width="49.2%" />
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjjun0hg%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=aerlingus.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+  
+  <img src="https://raw.githubusercontent.com/jjun0hg/github-stats-transparent/output/generated/languages.svg" width="49.2%" />
+</a>
+
+<!-- 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jjun0hg&theme=tokyonight)](https://git.io/streak-stats)
+-->
+
+<br />  
 
   <br>
 
