@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 <a href="s">
 <div align="left">
  
-  <img src="https://github-readme-stats.vercel.app/api?username=jjun0hg&theme=tokyonight&show_icons=true&text_color=e5e5f0&icon_color=707070&hide_border=true" width="49.2%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jjun0hg&theme=tokyonight&show_icons=true&text_color=e5e5f0&icon_color=707070&hide_border=true" width="100%" />
 
  </a>
 <br />
