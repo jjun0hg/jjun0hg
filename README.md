@@ -25,6 +25,7 @@ Here are some ideas to get you started:
 <!--font: https://fonts.google.com/specimen/Redressed   Redressed,Festive --> 
 
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjjun0hg%2Fhit-counter&count_bg=%23567CBD&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=views&edge_flat=false" align="left" /></a>
+ 
 <br />
 <br />
 <a href="s">
@@ -43,6 +44,7 @@ Here are some ideas to get you started:
 <!--   [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=jjun0hg&theme=react-dark&line=6796e5&color=6796e5&bg_color=1a1b27)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
 <!-- https://github.com/Ashutosh00710/github-readme-activity-graph -->
 <br />
+ 
 <!--
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jjun0hg&theme=nord_dark)
 -->
